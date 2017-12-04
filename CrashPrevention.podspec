@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CrashPrevention"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "阻止一些简单bug，防止程序crash，比如：数组越界"
   s.homepage     = "https://github.com/hwzss/CrashPrevention"
   s.license      = { :type => "MIT", :file => "LICENSE" }
